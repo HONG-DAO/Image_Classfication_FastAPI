@@ -1,0 +1,69 @@
+2025-01-09 23:43:28,493 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-09 23:43:33,717 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-09 23:43:33,720 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:24:52,490 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:24:53,500 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:24:53,501 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:28:14,483 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:28:14,855 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:28:14,870 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:41:44,659 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:41:45,049 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:41:45,049 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:43:25,673 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:43:26,331 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:43:26,331 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:45:42,445 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:45:42,695 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:45:42,695 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:46:00,727 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:46:01,162 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:46:01,162 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:49:58,693 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:49:59,076 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:49:59,076 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:50:15,151 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:50:15,519 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:50:15,520 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:51:47,398 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:51:47,648 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:51:47,648 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:52:04,083 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:52:04,456 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:52:04,457 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:57:56,784 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:57:57,030 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:57:57,046 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:58:03,821 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:58:04,078 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:58:04,078 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 14:59:38,494 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 14:59:38,759 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 14:59:38,759 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: Ran out of input
+2025-01-10 15:45:55,373 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 15:45:55,819 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 15:45:55,831 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'D:\\Image_Classsfication_FastAPI\\models\\weights\\catdog_weights.pt'
+2025-01-10 15:46:13,567 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 15:46:13,911 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 15:46:13,911 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'd:\\Image_Classsfication_FastAPI\\models\\weights\\catdog_weights.pt'
+2025-01-10 15:53:28,380 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 15:53:28,695 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Load model failed
+2025-01-10 15:53:28,695 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Error: [Errno 2] No such file or directory: 'd:\\Image_Classsfication_FastAPI\\models\\weights\\catdog_weights.pt'
+2025-01-10 15:56:07,042 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 15:56:07,439 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - ERROR - Model weight file not found: d:\Image_Classsfication_FastAPI\models\weights\catdog_weights.pt
+2025-01-10 15:58:28,309 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-10 15:58:28,695 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Model 'resnet18' loaded successfully.
+2025-01-10 15:58:41,632 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted name: resnet18
+2025-01-10 15:58:41,632 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted Prob: 0.998426 - Predicted ID: 1 - Predicted Class: Dog
+2025-01-10 15:59:47,941 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted name: resnet18
+2025-01-10 15:59:47,941 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted Prob: 0.550813 - Predicted ID: 1 - Predicted Class: Dog
+2025-01-10 16:00:44,531 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted name: resnet18
+2025-01-10 16:00:44,531 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted Prob: 0.998673 - Predicted ID: 0 - Predicted Class: Cat
+2025-01-10 16:01:09,553 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted name: resnet18
+2025-01-10 16:01:09,553 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted Prob: 0.922038 - Predicted ID: 1 - Predicted Class: Dog
+2025-01-10 16:03:28,475 - d:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-13 21:07:18,937 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Starting Model Serving
+2025-01-13 21:09:04,593 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted name: resnet18
+2025-01-13 21:09:04,594 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted Prob: 0.998426 - Predicted ID: 1 - Predicted Class: Dog
+2025-01-13 21:16:12,788 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted name: resnet18
+2025-01-13 21:16:12,789 - D:\Image_Classsfication_FastAPI\models\catdog_predictor.py - INFO - Predicted Prob: 0.998426 - Predicted ID: 1 - Predicted Class: Dog
